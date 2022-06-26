@@ -35,5 +35,3 @@ if (n < 1) {
 } else {
   alert(pow(x, n));
 }
-
-
